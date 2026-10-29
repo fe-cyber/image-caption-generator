@@ -1,0 +1,60 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs and large models
+models/*.h5
+models/*.keras
+models/*.weights.h5
+*.pkl
+
+# Datasets and macOS metadata
+data/*
+!data/.gitkeep
+__MACOSX/
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs and large models
+models/*.h5
+models/*.keras
+models/*.weights.h5
+*.pkl
+
+# Environment variables and secrets
+.env
+
+# IDE files
+.vscode/
+
+# Environment variables and secrets
+.env
+
+# IDE and OS files
+.vscode/
+.DS_Store
+
+
